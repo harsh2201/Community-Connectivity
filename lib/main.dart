@@ -15,6 +15,7 @@ class MyApp extends StatelessWidget {
         '/': (context) => Intro(),
         '/home': (context) => Home(),
       },
+      debugShowCheckedModeBanner: false,
       theme: ThemeData(
         fontFamily: 'Helvetica',
         primarySwatch: Colors.blue,
