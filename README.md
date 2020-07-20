@@ -1,16 +1,10 @@
-# CommunityConnectivity
+# Community Connectivity
 
-A new Flutter project.
+This project us made from the <a href="https://www.linkedin.com/posts/benitagracejacob_adobexd-uidesign-appdesign-activity-6690856142169628672-Rp3E"> UI concept of Benita Grace Jacob</a>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo
+  ![](https://github.com/harsh2201/Community-Connectivity/blob/master/screenshots/Screenshot_1595244391.png)
+  ![](https://github.com/harsh2201/Community-Connectivity/blob/master/screenshots/Screenshot_1595244425.png)
+  ![](https://github.com/harsh2201/Community-Connectivity/blob/master/screenshots/Screenshot_1595244430.png)
+  ![](https://github.com/harsh2201/Community-Connectivity/blob/master/screenshots/Screenshot_1595244435.png)
+  ![](https://github.com/harsh2201/Community-Connectivity/blob/master/screenshots/Screenshot_1595244455.png)
